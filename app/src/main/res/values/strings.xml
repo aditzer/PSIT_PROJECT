@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PSIT_PROJECT</string>
+    <string-array name="department_array">
+        <item>Administration</item>
+        <item>CSE</item>
+        <item>IT</item>
+        <item>CS</item>
+        <item>MECHANICAL</item>
+        <item>ECE</item>
+        <item>ELECTRICAL</item>
+        <item>PHARMACY</item>
+        <item>MBA</item>
+        <item>MCA</item>
+    </string-array>
+    <string-array name="designation_title_array">
+        <item>Dean</item>
+        <item>Director</item>
+        <item>Managing Director</item>
+        <item>Faculty</item>
+        <item>HOD</item>
+    </string-array>
+    <string-array name="designation_array">
+        <item>Dean</item>
+        <item>Director</item>
+        <item>Managing Director</item>
+        <item>Professor</item>
+        <item>Assistant Professor</item>
+        <item>Associate Professor</item>
+    </string-array>
+    <string-array name="admin_array">
+        <item>yes</item>
+        <item>no</item>
+    </string-array>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="dev_mail">aditiadalatwale@gmail.com</string>
+    <string name="dev_contact">+91-7518242965</string>
+</resources>

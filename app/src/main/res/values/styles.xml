@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Widget.Theme.MyApplicationFINALPSIT.ActionBar.Fullscreen" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">#66000000</item>
+    </style>
+
+    <style name="Widget.Theme.MyApplicationFINALPSIT.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">#66000000</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+</resources>
